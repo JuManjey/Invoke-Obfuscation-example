@@ -6,7 +6,7 @@ cd Invoke-Obfuscation
 pwsh
 Import-Module ./Invoke-Obfuscation.psd1
 Invoke-Obfuscation
-set scriptblock Whrite-Host "Hello World!"
+set scriptblock Write-Host "Hello World!"
 
 
 
